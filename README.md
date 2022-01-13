@@ -32,7 +32,7 @@
 [<img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>]()
 <br />
 
-###📺 Latest YouTube Videos
+📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Manoj Sharma || Linear Algebra With 1 Variable ||](https://www.youtube.com/watch?v=WRC93zzuxGA)
 - [My Badge Ceremony || Management Secretary || MLVTEC Bhilwara](https://www.youtube.com/watch?v=AjSErCwxwjY)
