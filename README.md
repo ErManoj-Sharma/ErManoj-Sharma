@@ -50,7 +50,16 @@
 [<img align="left" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>](https://github.com/ErManoj-Sharma/)
 <br />
 <br/>
-###Latest YouTube Videos
+### 💻Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Manoj Sharma || Linear Algebra With 1 Variable ||](https://www.youtube.com/watch?v=WRC93zzuxGA)
+- [My Badge Ceremony || Management Secretary || MLVTEC Bhilwara](https://www.youtube.com/watch?v=AjSErCwxwjY)
+- [The Spark Foundation | Non-Tech | Poster Design | Manoj Sharma| #GRIPMAY2021 #TSF](https://www.youtube.com/watch?v=rf94MCSeEUE)
+- [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma || #GRIPMAY21](https://www.youtube.com/watch?v=uUbhmWcYWms)
+- [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma ||](https://www.youtube.com/watch?v=9sS-G96OlVc)
 <!-- YOUTUBE:END -->
 
+<<<<<<< HEAD
+=======
+![image](https://drive.google.com/file/d/1-PHHLJWA1rQu5KjNcwbtdZWLe_zL1SBo/view?usp=sharing)
+>>>>>>> 02d846c287b40fe2bd86b9669ad0b0ee869277c4
