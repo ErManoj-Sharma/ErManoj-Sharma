@@ -52,6 +52,11 @@
 <br/>
 ###Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Manoj Sharma || Linear Algebra With 1 Variable ||](https://www.youtube.com/watch?v=WRC93zzuxGA)
+- [My Badge Ceremony || Management Secretary || MLVTEC Bhilwara](https://www.youtube.com/watch?v=AjSErCwxwjY)
+- [The Spark Foundation | Non-Tech | Poster Design | Manoj Sharma| #GRIPMAY2021 #TSF](https://www.youtube.com/watch?v=rf94MCSeEUE)
+- [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma || #GRIPMAY21](https://www.youtube.com/watch?v=uUbhmWcYWms)
+- [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma ||](https://www.youtube.com/watch?v=9sS-G96OlVc)
 <!-- YOUTUBE:END -->
 
 ![image](https://drive.google.com/file/d/1-PHHLJWA1rQu5KjNcwbtdZWLe_zL1SBo/view?usp=sharing)
