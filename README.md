@@ -15,17 +15,17 @@
 </div>
 
 
- 
+ ### Connect with me:
 <div> 
   <a href="https://www.youtube.com/channel/UCRId5jwW4c9ASuAqtHMG5bA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/er.man0j_sharma/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mmmanojsharma201611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ermanojsharmait/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ErManoj-Sharma/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+</div> 
+  
+![Snake animation](https://github.com/ErManoj-Sharma/ErManoj-Sharma/blob/output/github-contribution-grid-snake.svg)
+
 <!--     
 ### Connect with me:
 [<img align="left" alt="ManojSharma | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCRId5jwW4c9ASuAqtHMG5bA)
@@ -54,4 +54,3 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-![image](https://drive.google.com/file/d/1-PHHLJWA1rQu5KjNcwbtdZWLe_zL1SBo/view?usp=sharing)
