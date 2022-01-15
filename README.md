@@ -58,8 +58,3 @@
 - [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma || #GRIPMAY21](https://www.youtube.com/watch?v=uUbhmWcYWms)
 - [Payment Gateway Integration || GRIP TASK #3 || The Spark Foundation || Manoj Sharma ||](https://www.youtube.com/watch?v=9sS-G96OlVc)
 <!-- YOUTUBE:END -->
-
-<<<<<<< HEAD
-=======
-![image](https://drive.google.com/file/d/1-PHHLJWA1rQu5KjNcwbtdZWLe_zL1SBo/view?usp=sharing)
->>>>>>> 02d846c287b40fe2bd86b9669ad0b0ee869277c4
