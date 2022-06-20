@@ -7,7 +7,7 @@
 
 - I’m currently learning everything .
 - 2022 Goals: want to become a better version of my self.
-- Current Project : <a href="https://t.me/codefriendsbot"> CodeFriend Telegram Bot</a>
+- Current Project : <a href="https://django-weather-webapplication.herokuapp.com/">Weather App In Django</a>
 
 <div align="center">
   <a href="https://github.com/ErManoj-Sharma">
