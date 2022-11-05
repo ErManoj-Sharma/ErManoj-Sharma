@@ -39,19 +39,28 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/ErManoj-Sharma/)
+  
+[<img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://github.com/ErManoj-Sharma/)
+  [<img align="left" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://github.com/ErManoj-Sharma/)
+  
+[<img align="left" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://github.com/ErManoj-Sharma/)
+[<img align="left" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />](https://github.com/ErManoj-Sharma/)  
+  
 [<img align="left" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/ErManoj-Sharma/)
+  [<img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/ErManoj-Sharma/)
+  
 [<img align="left" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>](https://github.com/ErManoj-Sharma/)
+[<img align="left" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>](https://github.com/ErManoj-Sharma/)
+  
 [<img align="left" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="Terminal" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>](https://github.com/ErManoj-Sharma/)
-[<img align="left" alt="Pycharm" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"/>](https://github.com/ErManoj-Sharma/)
-  [<img align="left" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://github.com/ErManoj-Sharma/)
-[<img align="left" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://github.com/ErManoj-Sharma/)
-[<img align="left" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />](https://github.com/ErManoj-Sharma/)
-  [<img align="left" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/ErManoj-Sharma/)
+
+
+
 <br />
 <br/>
 ### 💻Latest YouTube Videos
