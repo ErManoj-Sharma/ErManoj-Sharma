@@ -51,6 +51,7 @@
   [<img align="left" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://github.com/ErManoj-Sharma/)
 [<img align="left" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />](https://github.com/ErManoj-Sharma/)
+  [<img align="left" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/react.png" />](https://github.com/ErManoj-Sharma/)
 <br />
 <br/>
 ### 💻Latest YouTube Videos
