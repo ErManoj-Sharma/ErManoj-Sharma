@@ -6,7 +6,7 @@
 ## I'm a Student,CyberSecurity Enthusiast, Developer, and some times a Teacher!!
 
 - I’m currently learning everything .
-- 2022 Goals: want to become a better version of my self.
+- 2023 Goals: want to become a better version of my self.
 - Current Project : <a href="https://django-weather-webapplication.herokuapp.com/">Weather App In Django</a>
 
 <div align="center">
