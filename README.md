@@ -23,6 +23,7 @@
   <a href = "mailto:mmmanojsharma201611@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ermanojsharmait/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.codechef.com/users/erman0jsharma" target="_blank"><img src="https://img.shields.io/badge/-Codechef-8f6b32?style=for-the-badge&logo=codechef&logoColor=white" target="_blank"></a>
+   <a href="https://auth.geeksforgeeks.org/user/mmmanojsharma201611" target="_blank"><img src="https://img.shields.io/badge/-Geeksforgeeks-046A38?style=for-the-badge&logo=geeksforgeeks&logoColor=green" target="_blank"></a>
 </div> 
   
 ![Snake animation](https://github.com/ErManoj-Sharma/ErManoj-Sharma/blob/output/github-contribution-grid-snake.svg)
