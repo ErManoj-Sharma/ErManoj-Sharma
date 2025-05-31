@@ -7,7 +7,7 @@
 
 - I’m currently learning everything .
 - 2023 Goals: want to become a better version of my self.
-- Current Project : <a href="https://django-weather-webapplication.herokuapp.com/">Weather App In Django</a>
+- Current Project : <a href="https://indian-geography.vercel.app/#3.88/22.91/81.31">Indian Geograpgy</a>
 
 <div align="center">
   <a href="https://github.com/ErManoj-Sharma">
